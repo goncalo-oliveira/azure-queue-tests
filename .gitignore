@@ -1,0 +1,5 @@
+dockerbuild.bat
+dockerbuild.ver
+src/queue-auth-app/bin/*
+src/queue-auth-app/obj/*
+src/queue-auth-app/config.json
