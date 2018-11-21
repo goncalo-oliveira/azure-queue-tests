@@ -1,0 +1,4 @@
+﻿{
+  "AZURE_STORAGE_CONNECTIONSTRING": "azure storage connection string",
+  "QUEUE_NAME": "testqueue"
+}
