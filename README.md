@@ -8,3 +8,5 @@ Alternatively, environment variables can be set.
 QUEUE_AUTH_AZURE_STORAGE_CONNECTIONSTRING=your azure storage connection string
 QUEUE_AUTH_QUEUE_NAME=testqueue
 ```
+
+A `Dockerfile` is provided as well.
